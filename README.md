@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 
 </br>
 Profiles: </br>
-[TryHackMe](https://tryhackme.com/p/hellxares)
-[LinkedIn](https://www.linkedin.com/in/bhavin-amesara-7248a312a/)
-[Twitter](https://twitter.com/amesara_bhavin)
+TryHackMe: https://tryhackme.com/p/hellxares</br>
+LinkedIn: https://www.linkedin.com/in/bhavin-amesara-7248a312a/</br>
+Twitter: https://twitter.com/amesara_bhavin</br>
