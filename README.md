@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 </br>
 Profiles: </br>
 TryHackMe: https://tryhackme.com/p/hellxares</br>
-LinkedIn: https://www.linkedin.com/in/bhavin-amesara-7248a312a/</br>
+LinkedIn: https://www.linkedin.com/in/bhavinamesara/</br>
 Twitter: https://twitter.com/bhavinamesara</br>
